@@ -1,0 +1,5 @@
+/data/original_corpus.txt
+/data/original_corpus_minus.txt
+/output/topics_infer.csv
+/pick/dictionary.pkl
+/pick/lda.pkl
